@@ -1,0 +1,4 @@
+train_bert.py
+将bert模型（model/）和log文件(log/)单独存储(save/)
+改test.py文件的save_path
+运行分类测试文件
